@@ -1,4 +1,4 @@
-# Taquisocopy
+# Taquisocope
 Gerador de Frequência  Interface com controle de:
 VISÃO GERAL DO PROJETO
 📱 Objetivo:
